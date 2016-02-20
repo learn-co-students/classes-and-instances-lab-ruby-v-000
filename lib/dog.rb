@@ -1,10 +1,10 @@
 class Dog
-#  def talks
-#    puts "Hello World!"
-#  end
-#  def walks
-#    puts "The Person is walking"
-#  end
+  def bark
+    puts "Woof!"
+  end
+  def sit
+    puts "The dog is sitting."
+  end
 end
 
 fido = Dog.new
