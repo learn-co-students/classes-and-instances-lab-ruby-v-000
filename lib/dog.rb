@@ -1,5 +1,5 @@
+
 class Dog
-  #dog names
 end
 
 fido = Dog.new

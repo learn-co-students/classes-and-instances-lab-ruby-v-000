@@ -1,5 +1,4 @@
 class Person
-  #People names
 end
 
 adele_goldberg = Person.new
