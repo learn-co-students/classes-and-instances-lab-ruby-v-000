@@ -1,9 +1,13 @@
-#PERSON class
+#PERSON
+
+=begin
+Define a new class called 'Person'.
+Instantiate two instances of 'Person'
+=end
+
 class Person
 
 end
 
-#Person instances
 adele_goldberg = Person.new
-
 alan_kay = Person.new
