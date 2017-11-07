@@ -1,4 +1,8 @@
-# define a class
+# define class
 class Dog
-  fido && snoopy && lassie = Dog.new
+
 end
+
+fido = Dog.new
+snoopy = Dog.new
+lassie = Dog.new
