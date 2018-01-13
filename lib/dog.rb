@@ -1,5 +1,5 @@
 class Dog
-  #New code here
+
 end
 
 fido = Dog.new
