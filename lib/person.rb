@@ -1,5 +1,5 @@
-Class Person
+class Person  #make sure class has a lower case c, not upper case!!
 end
 
-adel_goldberg.new
-alan_kay.new
+adele_goldberg = Person.new
+alan_kay = Person.new
