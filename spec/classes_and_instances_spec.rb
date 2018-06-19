@@ -41,7 +41,7 @@ describe 'Person' do
     end
 
     it 'defines a local variable alan_kay as an instance of a Person' do
-      alan_kay = get_variable_from_file("lib/person.rb", "alan_kay")
+     alan_kay = get_variable_from_file("lib/person.rb", "alan_kay")
       expect(alan_kay).to be_a(Person)
     end
   end
