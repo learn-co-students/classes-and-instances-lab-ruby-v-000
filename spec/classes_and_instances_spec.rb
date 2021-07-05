@@ -1,5 +1,6 @@
 require 'spec_helper'
-
+require_relative '../lib/dog.rb'
+require_relative '../lib/person.rb'
 describe 'Dog' do
   it 'is defined within lib/dog.rb' do
     if file_includes_class_definition('lib/dog.rb','Dog')
